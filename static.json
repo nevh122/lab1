@@ -2,6 +2,6 @@ $ heroku buildpacks:set https://github.com/heroku/heroku-buildpack-static.git
 $ git push heroku master
 {
   "routes": {
-    /*.html":index.html
+    "/*.html":index.html
   }
 }
