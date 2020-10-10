@@ -1,5 +1,5 @@
 <html>
-<body style="background-color:#de5246;">
+<body style="background-color:#D3D3D3;">
 <center> <font size=7><h1 style="color:blue;">Hi! Im Nicolas Eduardo Huet</font></h1>
 <img src=https://trello-attachments.s3.amazonaws.com/5f3945025b439677dd72a20c/5f39befad087794a8819a945/a9b949337a9f522129f51c16ecdd78c6/117406283_962313754273372_3151311764514997581_n.jpg style="width:250px;height:350px;"><br>
 <font size=5 style="text-align:center">Hello everyone I am Nicolas Eduardo Huet, but most people call me Ned as per my first names abbreviation.
