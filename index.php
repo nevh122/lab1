@@ -95,7 +95,7 @@ body {
 </div>
 
 <div class="navbar">
-  <a href="index.html">Home</a>
+  <a href="index.php">Home</a>
   <a href="#">USERDES Works</a>
   <a href="#">Certificates</a>
   <a href="#" class="right">Socials</a>
