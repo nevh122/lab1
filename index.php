@@ -61,7 +61,8 @@ body {
   padding: 20px;
 }
 
-.main {   
+.main { 
+  font-size: 20px;  
   -ms-flex: 70%;
   flex: 70%;
   background-color: white;
@@ -96,9 +97,10 @@ body {
 
 <div class="navbar">
   <a href="index.php">Home</a>
-  <a href="#">USERDES Works</a>
-  <a href="#">Certificates</a>
-  <a href="#" class="right">Socials</a>
+  <a href="activities.php">Activities</a>
+  <a href="refelctions.php">Reflections</a>
+  <a href="learnings.php">Learnings</a>
+  <a href="guidequestions.php">Guide Questions</a>
 </div>
 
 <div class="row">
@@ -121,15 +123,13 @@ body {
 
   <div class="main">
     <h2>What is this website?</h2>
-    <p>This website serves as my personal portfolio, where my works from our USERDES class can be seen, some works that i have made and people may find it interesting and certificates that i have gathered through multiple sources.
+    <p>This website serves as a compilation or an archive for all the works that i have done under my USERDES class that I am taking right now. This website also serves as a part of my finals activity under the same class and a good experince for me to start creating websites from html.
     	<br><br>
-    This website is exclusively made by me and outlines all the works taht i have done under the USERDES class.
-		<br><br>
-	   You can navigate through my website by clicking on the different tabs in the navigation bar.</p>
-    <img src=https://miro.medium.com/max/1050/1*hp-yfKsmzsj711iLbM8eEw.jpeg alt="uiux" width="500" height="300">
+    You can see all the works that i have done on the subject through the navigation bar bellow the header.
+	 </p>
     <br>
     <h2>Why am I here?</h2>
-    <p>(to add detils here) (to add nav bar)</p>
+    <p>The best explanation is that you may have stumbled this website randomly or you are someone from my class whether the professor or a student. Please forgive the somewhat terrible layout, this was my first major project in html and i am still learning most of the basics about it.</p>
   </div>
 
 </div>
