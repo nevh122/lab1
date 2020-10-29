@@ -3,6 +3,7 @@
 <title>Personal Website</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" type="image/png" href="img/ico.png">
 <style>
 *{
   box-sizing: border-box;
