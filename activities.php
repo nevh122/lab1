@@ -3,7 +3,7 @@
 <title>Personal Website - Activities</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="icon" href="img/ico" type="ico"/>
+<link rel="shortcut icon" type="image/png" href="img/ico.png">
 <style>
 *{
   box-sizing: border-box;
