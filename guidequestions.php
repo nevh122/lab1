@@ -130,7 +130,7 @@ body {
 
 
 <div class="main">
-    <h2>Reflections</h2>
+    <h2>Guide Questions</h2>
 <button class="accordion">G1: What is User Design?</button>
       <div class="panel">
         <img src="img/g1.png">
